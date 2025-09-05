@@ -1,0 +1,20 @@
+# requirements.txt
+
+fastapi
+uvicorn
+scikit-learn
+joblib
+pandas
+numpy
+yfinance
+requests
+alpaca-py
+pymongo
+dnspython
+python-dotenv
+tensorflow
+bcrypt
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+httpx
